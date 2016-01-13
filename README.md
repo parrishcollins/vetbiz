@@ -1,2 +1,2 @@
 # vetbiz
-Veteran Business Advocacy
+Veteran Business Advocacy and support
